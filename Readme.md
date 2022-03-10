@@ -27,6 +27,10 @@ ScreenShots
 
 [![Autocomplete registry properties methods](https://drive.google.com/uc?export=view&id=1xBy06vKD0OpFIax_UtboEMuGlO3PhhPD "Autocomplete registry properties methods")](https://drive.google.com/uc?export=view&id=1xBy06vKD0OpFIax_UtboEMuGlO3PhhPD "Autocomplete registry properties methods")
 
+[![Autocomplete registry models](https://drive.google.com/uc?export=view&id=1vICSe4M0SCg6UFD8x2cAXsaja3Gf6CK9 "Autocomplete registry models")](https://drive.google.com/uc?export=view&id=1vICSe4M0SCg6UFD8x2cAXsaja3Gf6CK9 "Autocomplete registry models")
+
+[![Autocomplete registry models methods](https://drive.google.com/uc?export=view&id=1iTXVVjZvrfPrOHGew5je-8nXR0xa3Wh7 "Autocomplete registry models methods")](https://drive.google.com/uc?export=view&id=1iTXVVjZvrfPrOHGew5je-8nXR0xa3Wh7 "Autocomplete registry models methods")
+
 [![Autocomplete constants](https://drive.google.com/uc?export=view&id=1xkePPJszrHWrm_kP7Rti_AvzwoB5IJvx "Autocomplete constants")](https://drive.google.com/uc?export=view&id=1xkePPJszrHWrm_kP7Rti_AvzwoB5IJvx "Autocomplete constants")
 
 [![Autocompelte new classes methods](https://drive.google.com/uc?export=view&id=1LJIqKcb1ap2o75THOqbFyUp8LZKdjcu- "Autocompelte new classes methods")](https://drive.google.com/uc?export=view&id=1LJIqKcb1ap2o75THOqbFyUp8LZKdjcu- "Autocompelte new classes methods")
