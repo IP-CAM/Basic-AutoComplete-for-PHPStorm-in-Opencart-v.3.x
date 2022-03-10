@@ -1,6 +1,6 @@
 Basic OpenCart AutoComplete for PHPStorm
 -
-**Based on OpenCart version 3.0.3.***
+**Based on OpenCart version 3.0.3.8**
 
 
 Install Steps
