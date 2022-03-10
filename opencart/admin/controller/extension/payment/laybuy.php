@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionPaymentLaybuy extends Controller {
 	private $error = array();
 

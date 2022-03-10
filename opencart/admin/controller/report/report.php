@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerReportReport extends Controller {
 	public function index() {
 		$this->load->language('report/report');

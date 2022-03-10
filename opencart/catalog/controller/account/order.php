@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerAccountOrder extends Controller {
 	public function index() {
 		if (!$this->customer->isLogged()) {

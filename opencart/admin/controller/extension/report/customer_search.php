@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionReportCustomerSearch extends Controller {
 	public function index() {
 		$this->load->language('extension/report/customer_search');

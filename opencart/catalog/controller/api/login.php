@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerApiLogin extends Controller {
 	public function index() {
 		$this->load->language('api/login');

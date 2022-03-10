@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 
 use \googleshopping\traits\StoreLoader;
 use \googleshopping\traits\LibraryLoader;

@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerAffiliateLogin extends Controller {
 	private $error = array();
 

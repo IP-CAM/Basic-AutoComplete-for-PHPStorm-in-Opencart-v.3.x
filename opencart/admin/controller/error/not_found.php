@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerErrorNotFound extends Controller {
 	public function index() {
 		$this->load->language('error/not_found');

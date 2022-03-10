@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionModuleCategory extends Controller {
 	public function index() {
 		$this->load->language('extension/module/category');

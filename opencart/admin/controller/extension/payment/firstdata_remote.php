@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionPaymentFirstdataRemote extends Controller {
 	private $error = array();
 

@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionTotalVoucher extends Controller {
 	public function index() {
 		if ($this->config->get('total_voucher_status')) {

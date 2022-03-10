@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerCommonHeader extends Controller {
 	public function index() {
 		// Analytics

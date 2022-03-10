@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 /**
  * @package		OpenCart
  * @author		Meng Wenbin

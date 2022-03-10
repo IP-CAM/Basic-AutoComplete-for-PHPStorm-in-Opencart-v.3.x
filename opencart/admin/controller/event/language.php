@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerEventLanguage extends Controller {
 	public function index(&$route, &$args) {
 		foreach ($this->language->all() as $key => $value) {

@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerEventTheme extends Controller {
 	public function index(&$route, &$args) {
 		// This is only here for compatibility with old templates

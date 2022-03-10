@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionModulePilibabaButton extends Controller {
 	public function index() {
 		$this->load->language('extension/module/pilibaba_button');

@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 /**
  * Modifcation XML Documentation can be found here:
  *

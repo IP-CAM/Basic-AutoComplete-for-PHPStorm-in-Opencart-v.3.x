@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionPaymentKlarnaInvoice extends Controller {
 	private $error = array();
 

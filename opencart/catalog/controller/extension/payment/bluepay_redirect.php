@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionPaymentBluePayRedirect extends Controller {
 	public function index() {
 		$this->load->language('extension/payment/bluepay_redirect');

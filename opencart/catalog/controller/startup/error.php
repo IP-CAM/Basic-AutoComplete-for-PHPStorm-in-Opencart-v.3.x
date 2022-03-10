@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerStartupError extends Controller {
 	public function index() {
 		$this->registry->set('log', new Log($this->config->get('config_error_filename')));

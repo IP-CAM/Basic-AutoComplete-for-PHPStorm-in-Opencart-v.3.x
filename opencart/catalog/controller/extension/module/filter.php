@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionModuleFilter extends Controller {
 	public function index() {
 		if (isset($this->request->get['path'])) {

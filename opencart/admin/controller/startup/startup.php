@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerStartupStartup extends Controller {
 	public function index() {
 		// Settings

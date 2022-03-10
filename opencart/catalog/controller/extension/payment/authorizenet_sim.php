@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionPaymentAuthorizeNetSim extends Controller {
 	public function index() {
 		$this->load->language('extension/payment/authorizenet_sim');

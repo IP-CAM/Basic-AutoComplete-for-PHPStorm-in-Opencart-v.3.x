@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionTotalCredit extends Controller {
 	private $error = array();
 

@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerCommonHome extends Controller {
 	public function index() {
 		$this->document->setTitle($this->config->get('config_meta_title'));

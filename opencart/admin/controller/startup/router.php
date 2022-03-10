@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerStartupRouter extends Controller {
 	public function index() {
 		// Route

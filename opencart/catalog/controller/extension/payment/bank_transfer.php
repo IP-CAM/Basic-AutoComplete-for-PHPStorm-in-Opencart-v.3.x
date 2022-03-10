@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionPaymentBankTransfer extends Controller {
 	public function index() {
 		$this->load->language('extension/payment/bank_transfer');

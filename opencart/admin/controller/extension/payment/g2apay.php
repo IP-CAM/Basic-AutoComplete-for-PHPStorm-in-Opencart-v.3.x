@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 
 class ControllerExtensionPaymentG2APay extends Controller {
 

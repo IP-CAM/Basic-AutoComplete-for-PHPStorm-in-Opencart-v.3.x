@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerMailReward extends Controller {
 	public function index($route, $args, $output) {
 		if (isset($args[0])) {

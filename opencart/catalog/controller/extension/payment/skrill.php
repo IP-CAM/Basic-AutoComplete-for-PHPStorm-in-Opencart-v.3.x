@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionPaymentSkrill extends Controller {
 	public function index() {
 		$this->load->model('checkout/order');

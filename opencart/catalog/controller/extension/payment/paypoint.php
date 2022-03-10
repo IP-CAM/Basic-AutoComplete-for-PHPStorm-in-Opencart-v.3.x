@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionPaymentPaypoint extends Controller {
 	public function index() {
 		$data['button_confirm'] = $this->language->get('button_confirm');

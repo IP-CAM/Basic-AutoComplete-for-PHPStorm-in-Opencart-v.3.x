@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 
 class ControllerExtensionPaymentSquareup extends Controller {
     public function index() {

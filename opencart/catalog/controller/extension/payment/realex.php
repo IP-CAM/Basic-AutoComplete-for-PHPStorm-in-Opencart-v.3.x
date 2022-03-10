@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionPaymentRealex extends Controller {
 	public function index() {
 		$this->load->language('extension/payment/realex');

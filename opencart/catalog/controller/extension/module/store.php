@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionModuleStore extends Controller {
 	public function index() {
 		$status = true;

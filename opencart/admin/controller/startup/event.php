@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerStartupEvent extends Controller {
 	public function index() {
 		// Add events from the DB

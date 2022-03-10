@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerStartupSass extends Controller {
 	public function index() {
 		$files = glob(DIR_APPLICATION . 'view/stylesheet/*.scss');

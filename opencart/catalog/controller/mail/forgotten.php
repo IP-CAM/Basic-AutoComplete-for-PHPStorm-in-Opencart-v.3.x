@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerMailForgotten extends Controller {
 	public function index(&$route, &$args, &$output) {			            
 		$this->load->language('mail/forgotten');

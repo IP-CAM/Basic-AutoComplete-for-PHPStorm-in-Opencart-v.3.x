@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerCustomerCustomerApproval extends Controller {
 	public function index() {
 		$this->load->language('customer/customer_approval');

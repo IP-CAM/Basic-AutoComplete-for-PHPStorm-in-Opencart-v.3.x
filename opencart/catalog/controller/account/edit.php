@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerAccountEdit extends Controller {
 	private $error = array();
 

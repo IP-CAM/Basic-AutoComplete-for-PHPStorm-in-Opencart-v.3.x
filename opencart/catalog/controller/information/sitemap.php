@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerInformationSitemap extends Controller {
 	public function index() {
 		$this->load->language('information/sitemap');

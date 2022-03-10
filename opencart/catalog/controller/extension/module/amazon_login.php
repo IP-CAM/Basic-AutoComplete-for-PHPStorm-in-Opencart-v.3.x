@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 
 class ControllerExtensionModuleAmazonLogin extends Controller {
     public function index() {

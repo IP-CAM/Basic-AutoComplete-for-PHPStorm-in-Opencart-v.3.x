@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionReportProductViewed extends Controller {
 	public function index() {
 		$this->load->language('extension/report/product_viewed');

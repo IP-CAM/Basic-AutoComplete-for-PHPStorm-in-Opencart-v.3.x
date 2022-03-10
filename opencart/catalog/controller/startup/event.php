@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerStartupEvent extends Controller {
 	public function index() {
 		// Add events from the DB

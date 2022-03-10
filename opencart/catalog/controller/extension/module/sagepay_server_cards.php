@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionModuleSagepayServerCards extends Controller {
 	public function index() {
 		if ($this->config->get('module_sagepay_server_cards_status') && $this->config->get('payment_sagepay_server_status') && $this->customer->isLogged()) {

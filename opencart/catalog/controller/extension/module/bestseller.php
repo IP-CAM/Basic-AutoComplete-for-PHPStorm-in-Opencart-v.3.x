@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionModuleBestSeller extends Controller {
 	public function index($setting) {
 		$this->load->language('extension/module/bestseller');

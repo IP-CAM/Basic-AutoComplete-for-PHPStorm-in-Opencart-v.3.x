@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerCommonContentBottom extends Controller {
 	public function index() {
 		$this->load->model('design/layout');

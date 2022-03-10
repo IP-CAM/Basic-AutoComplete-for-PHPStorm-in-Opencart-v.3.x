@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerEventTheme extends Controller {
 	public function index(&$route, &$args, &$code) {
 

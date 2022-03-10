@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionCaptchaBasic extends Controller {
 	public function index($error = array()) {
 		$this->load->language('extension/captcha/basic');

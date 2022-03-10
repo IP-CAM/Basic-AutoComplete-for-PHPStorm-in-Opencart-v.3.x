@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionDashboardMap extends Controller {
 	private $error = array();
 

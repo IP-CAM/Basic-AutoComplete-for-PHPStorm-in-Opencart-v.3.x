@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionTotalCoupon extends Controller {
 	public function index() {
 		if ($this->config->get('total_coupon_status')) {

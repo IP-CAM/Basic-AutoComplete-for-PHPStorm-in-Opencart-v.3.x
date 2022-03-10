@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionModuleSlideshow extends Controller {
 	public function index($setting) {
 		static $module = 0;		

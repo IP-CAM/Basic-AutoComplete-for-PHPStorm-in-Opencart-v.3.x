@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerStartupMaintenance extends Controller {
 	public function index() {
 		if ($this->config->get('config_maintenance')) {

@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerCatalogCategory extends Controller {
 	private $error = array();
 

@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerCommonLogout extends Controller {
 	public function index() {
 		$this->user->logout();

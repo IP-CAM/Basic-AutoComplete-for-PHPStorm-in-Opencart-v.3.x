@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerProductProduct extends Controller {
 	private $error = array();
 

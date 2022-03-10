@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerCheckoutConfirm extends Controller {
 	public function index() {
 		$redirect = '';

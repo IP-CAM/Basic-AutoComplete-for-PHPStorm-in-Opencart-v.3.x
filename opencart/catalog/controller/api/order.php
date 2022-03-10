@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerApiOrder extends Controller {
 	public function add() {
 		$this->load->language('api/order');

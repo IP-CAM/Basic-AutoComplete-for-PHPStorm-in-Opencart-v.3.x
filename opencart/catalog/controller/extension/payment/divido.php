@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionPaymentDivido extends Controller {
 	const
 		STATUS_ACCEPTED = 'ACCEPTED',

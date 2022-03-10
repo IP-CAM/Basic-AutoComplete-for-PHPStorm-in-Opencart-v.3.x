@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionModuleAmazonPay extends Controller {
 	private $version = '3.2.1';
 	private $error = array();

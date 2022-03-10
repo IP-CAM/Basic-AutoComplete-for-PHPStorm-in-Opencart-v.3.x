@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerExtensionReportSaleCoupon extends Controller {
 	public function index() {
 		$this->load->language('extension/report/sale_coupon');

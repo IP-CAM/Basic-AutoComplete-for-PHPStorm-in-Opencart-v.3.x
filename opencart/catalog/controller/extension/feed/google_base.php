@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionFeedGoogleBase extends Controller {
 	public function index() {
 		if ($this->config->get('feed_google_base_status')) {

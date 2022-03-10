@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionRecurringSquareup extends Controller {
     public function index() {
         $this->load->language('extension/recurring/squareup');

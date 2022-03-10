@@ -1,4 +1,5 @@
-<?php
+<?php namespace Admin; use Controller;
+
 class ControllerCommonDeveloper extends Controller {
 	public function index() {
 		$this->load->language('common/developer');

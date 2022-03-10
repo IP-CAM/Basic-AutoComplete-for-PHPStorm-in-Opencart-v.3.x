@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerStartupRouter extends Controller {
 	public function index() {
 		// Route

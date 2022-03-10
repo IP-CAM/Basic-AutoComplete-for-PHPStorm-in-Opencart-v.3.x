@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionPaymentPaymate extends Controller {
 	public function index() {
 		if (!$this->config->get('payment_paymate_test')) {

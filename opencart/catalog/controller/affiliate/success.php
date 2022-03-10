@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerAffiliateSuccess extends Controller {
 	public function index() {
 		$this->load->language('affiliate/success');

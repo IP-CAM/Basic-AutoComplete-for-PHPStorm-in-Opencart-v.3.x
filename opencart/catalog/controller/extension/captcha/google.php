@@ -1,4 +1,5 @@
-<?php
+<?php namespace Catalog; use Controller;
+
 class ControllerExtensionCaptchaGoogle extends Controller {
     public function index($error = array()) {
         $this->load->language('extension/captcha/google');
