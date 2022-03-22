@@ -1,7 +1,5 @@
 <?php
-namespace DB;
-
-class Result {
+class AutocompleteDbResult {
     /**
      * @var int
      */

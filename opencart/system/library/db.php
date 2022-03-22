@@ -39,7 +39,7 @@ class DB {
      *
      * @param	string	$sql
 	 * 
-	 * @return	DB\Result
+	 * @return	AutocompleteDbResult
      */
 	public function query($sql) {
 		return $this->adaptor->query($sql);
@@ -49,7 +49,7 @@ class DB {
      * 
      *
      * @param	string	$value
-	 * 
+	 *
 	 * @return	string
      */
 	public function escape($value) {
